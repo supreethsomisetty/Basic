@@ -1,0 +1,25 @@
+/* h1{
+    color: red;
+    background-color :black;
+   }
+   p{
+    color: green;
+   }*/
+   h1{
+    color:green
+   }
+   .kanna{
+    color: green;
+   }
+   #munna{
+    color:purple;
+   }
+   .nanna{
+    color:red;
+   }
+.mydiv h1{
+    background-color: brown;
+}
+h1~p{
+    background-color: yellow;
+}
